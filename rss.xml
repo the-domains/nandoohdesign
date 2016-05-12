@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nandoohDesign]]></title>
         <description><![CDATA[nandoohDesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nandoohdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 13:34:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 13:39:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nandoohdesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nieuwe Ambities, Nieuw Design, ooh]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefinednieuwe-ambities-nieuw-design-ooh/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ad7619-3554-4293-b2c0-f20898f1b0f3.jpg">]]></description>
+            <link>https://thegrid.ai/nandoohdesign/nieuwe-ambities-nieuw-design-ooh/index.html</link>
             <guid isPermaLink="false">2920076c-f8c8-4c09-b425-8d6c850b2f06</guid>
-            <pubDate>Thu, 12 May 2016 13:34:02 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 13:37:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
