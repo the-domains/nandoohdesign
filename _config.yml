@@ -1,28 +1,40 @@
-name: nandoohDesign
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.45411
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: nandoohDesign
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6656406240072101
+  brandStrength: 0.7007245942950249
+  rhythmicContrast: 0.6516232031863183
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7007245942950249
   lightness: 0.973412791499868
-  saturation: 0.6656406240072101
-  rhythmicContrast: 0.6516232031863183
-purpose: []
+typography_spectrum: 0.45411
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7425532
+analytics:
+  twitter: null
+  google: null
+  facebook: null
